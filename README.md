@@ -12,7 +12,9 @@
 
 > **Clipify** automatically finds the best 15–90 second viral clips from any long video using AI — completely locally, no cloud, no subscriptions, no data ever leaves your machine.
 
-![Clipify UI Screenshot](resources/subtitles/template.ass)
+<video src="src/renderer/public/clips/clip-1.mp4" controls autoplay muted loop width="100%">
+  <a href="src/renderer/public/clips/clip-1.mp4">▶ Watch Demo Clip</a>
+</video>
 
 </div>
 
