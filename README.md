@@ -352,7 +352,7 @@ git push origin feature/my-feature
 
 ## 📄 License
 
-MIT © 2024 [sayanpal514-hue](https://github.com/sayanpal514-hue)
+MIT © 2024 [LICENSE](./LICENSE)
 
 ---
 
