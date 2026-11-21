@@ -357,5 +357,5 @@ MIT © 2024 [sayanpal514-hue](https://github.com/sayanpal514-hue)
 ---
 
 <div align="center">
-Built with ❤️ using Electron · React · FFmpeg · sherpa-onnx
+Built by Sayan
 </div>
